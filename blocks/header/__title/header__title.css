@@ -1,0 +1,15 @@
+.header__title {
+    margin: 0 0 0 64px; 
+    width: 730px;
+    min-height: 756px;
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: normal;
+    font-family: 'Inter-SemiBold', 'Arial', sans-serif; 
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-start;
+    align-items: center; 
+    position: relative;
+    z-index: 3;
+}
