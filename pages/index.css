@@ -77,3 +77,6 @@
 
 /*description*/
 @import url(../blocks/description/description.css);
+
+/*normalize*/
+@import url(../vendor/normalize.css);
